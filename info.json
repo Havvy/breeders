@@ -1,0 +1,10 @@
+{
+  "name": "Breeder",
+  "version": "0.0.1",
+  "title": "Breeding",
+  "author": "Havvy (Ryan Scheel)",
+  "contact": "N/A",
+  "homepage": "N/A",
+  "description": "Adds a Forestry-beekeeping derived breeding system for biters.",
+  "dependencies": ["base >= 0.10.0"]
+}
